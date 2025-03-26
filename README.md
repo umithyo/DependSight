@@ -17,15 +17,17 @@ DependSight is an intelligent dependency management tool that helps developers u
 
 ## 📦 Installation
 
-### bash
-
 ### Global installation
 
+```bash
 npm install -g dependsight
+```
 
 ### Or as a dev dependency in your project
 
+```bash
 npm install --save-dev dependsight
+```
 
 ## 🔧 Usage
 
